@@ -16,4 +16,5 @@ console.log( texto1 === texto2);
 // } else {
 //     console.log("o texto armazenado foi ");
 //     console.log(texto3);
-// }
+// }   
+
